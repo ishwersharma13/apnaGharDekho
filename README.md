@@ -1,68 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ApnaGharDekho Website
+This repository contains the source code for the ApnaGharDekho website. ApnaGharDekho is a real estate listing platform where users can search for and explore various properties available for buying or renting.
 
-## Available Scripts
+1. User Authentication(SignIn)
+![Screenshot (400)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/a697e94c-7f1f-46b3-b17b-bcd211cd989a)
 
-In the project directory, you can run:
 
-### `npm start`
+3.  User Authentication(Login)
+![Screenshot (401)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/8b9d103e-0fcc-4c8c-b8fa-88102bc959b2)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+5. Landing Page
+![Screenshot (394)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/ba9ed825-32e4-4545-86cd-65e41dab9bc2)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7. About Us
+![Screenshot (395)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/885c2afc-6f9f-4047-91ea-b15b3db0958a)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+9. What we offer
+![Screenshot (397)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/54ec761e-bd67-45cd-986c-a417a2012a15)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+11. Product Page
+![Screenshot (398)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/7a026144-f77b-4fb7-a9f0-21b678d9b89c)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+13. Filter with respect to location, property, price, and description
+![Screenshot (399)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/dae39ca3-24eb-40bd-989f-589012421ffa)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+15. Saved Properties
+![Screenshot (402)](https://github.com/ishwersharma13/apnaGharDekho/assets/103954615/d37e4095-936e-46eb-b4db-c5690ff426db)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+Features
+Property Search: Users can search for properties based on location, price range, property type, and other criteria.
+Property Listings: The website displays detailed information about each property, including images, property type, price, location, and contact details.
+Favorites: Users can save their favorite properties to revisit them later.
+Contact Agents: Users can directly contact the agents or property owners for more information or to schedule a visit.
+User Authentication: The website provides user registration and authentication functionality to manage favorites and saved searches.
+Responsive Design: The website is optimized for different screen sizes and devices, ensuring a seamless user experience across desktop and mobile devices.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Live Demo
+https://649ac1dcf3588d04848ecf2e--apnaghardekho.netlify.app/
